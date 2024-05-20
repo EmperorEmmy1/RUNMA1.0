@@ -202,7 +202,7 @@ background: url(image.png);
     }
 
 #texttwo{
-        
+        margin: 0% 10% 0%;
         font-family: 'Merriweather';
         font-style: normal;
         width: 80%;
